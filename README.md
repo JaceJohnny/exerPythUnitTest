@@ -2,10 +2,10 @@
 
 ## Summary of steps to complete
 
-- [ ] Fork this repository so you have your own copy to work on.
-- [ ] Clone the repository on your local machine. 
-- [ ] Run the code shown in this video.
-- [ ] Push your updated file to your GitHub repository.
+- [X] Fork this repository so you have your own copy to work on.
+- [X] Clone the repository on your local machine. 
+- [X] Run the code shown in this video.
+- [X] Push your updated file to your GitHub repository.
 
 ## Fork & Clone this repository
 
